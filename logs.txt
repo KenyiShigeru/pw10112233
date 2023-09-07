@@ -1,0 +1,11 @@
+commit 7c6535621a4143b04e10d2d6f1046837ffdc306f
+Author: KenyiShigeru <kidvskat_kenyi@hotmail.com>
+Date:   Thu Sep 7 10:41:00 2023 -0700
+
+    Encabezado y titulo
+
+commit d196ab0a88365125b89f3a6084b2c2ec3b4ae0f8
+Author: KenyiShigeru <kidvskat_kenyi@hotmail.com>
+Date:   Thu Sep 7 10:32:25 2023 -0700
+
+    Archivos iniciales de la clase
