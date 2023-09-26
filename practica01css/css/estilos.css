@@ -1,0 +1,6 @@
+body{
+    max-width: 1024px;
+    font-size: 16px; /*1 em*/
+    margin: 0px auto;
+    border: solid red;
+}
