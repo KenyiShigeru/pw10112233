@@ -4,3 +4,49 @@ body{
     margin: 0px auto;
     border: solid red;
 }
+header{
+    background: #d1e3ee;
+}
+
+#logo{
+    margin-top: -150px;
+}
+header nav{
+    background: #026dc6;
+    border-radius: 5px;
+    padding: 2px 0px;
+    margin: 0px auto;
+    width: 99%;
+}
+
+header nav form{
+    float: right;
+    margin-right: 20px;
+    margin-top: -35px;
+}
+header nav form input{
+    border-radius: 5px;
+}
+header nav form input[type="submit"]{
+    background-color: green;
+    border: 1px solid green;
+    color: white;
+
+}
+header nav ul li{
+    color: white;
+    display: inline-block ;/*Por default es block puro y abarca todo el ancho de la pantalla
+    y el inline hace que se adapte al tamaño del contenido*/
+    margin-right: 20px;
+}
+#seccion01{
+    margin-top: 15px;
+
+}
+#seccion01 article{
+    text-align: center;
+}
+#seccion01 article img{
+    border: 5px solid rgba(150,150,150,0.5);
+    width: 98%;
+}
